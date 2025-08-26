@@ -1,0 +1,19 @@
+h1 {
+    color: green;
+    font-size: 30px;
+    font-weight: 700;
+    font-style: italic;
+    text-align: center;
+    background-color: aqua;
+}
+
+
+
+
+.teknisk-förståelse,.last-paragraph {
+    color: pink;
+}
+
+body {
+    background-image: url(../Images/2.png)
+}
